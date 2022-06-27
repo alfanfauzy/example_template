@@ -1,24 +1,24 @@
 
 # [TITLE]
 
-#### Description
+### Description
 _Description problem, bug, or fix._
 
-#### Current Condition
+### Current Condition
 _Current condition now_
 
-#### Expected Condition
+### Expected Condition
 _What expected result after change_
 
-#### Step by Step to Reproduce
+### Step by Step to Reproduce
 _How to reproduce_
 
-#### Task
+### Task
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
 - [ ] Task 4
 - [ ] Task 5
 
-#### Attachment 
+### Attachment 
 _optional_
